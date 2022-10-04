@@ -1,0 +1,4 @@
+[submodule "angband"]
+	path = angband
+	url = https://github.com/angband/angband.git
+	branch = 4.2-release
