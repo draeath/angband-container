@@ -1,0 +1,2 @@
+# this is an example alias you can use to make running the game easier.
+alias angband="podman run --rm -it -v ~/.angband:/root/.angband:rw angband"

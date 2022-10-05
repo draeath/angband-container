@@ -1,6 +1,5 @@
 /.git
-/.gitignore
 /.gitmodules
+/LICENSE.txt
 /README.md
-/angband
-/prepare.sh
+/alias-example.txt
